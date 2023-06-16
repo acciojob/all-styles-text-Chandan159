@@ -9,6 +9,8 @@
 .heading{
 	padding:10px;
 	font-size:20px;
-
+    color:white;
+    border-bottom:2px solid rgb(0,0,0);
+	color:rgb(255,255,255);
 
 }
